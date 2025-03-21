@@ -33,3 +33,9 @@ Necesitas configurar tu clave API de OpenAI, en este caso nosotros recibimos la 
 
 Ejecuta el resto de celdas del notebook para que el programa funcione correctamente.
 
+## Ejemplo en accion
+
+
+![image](https://github.com/user-attachments/assets/7fc81b4d-73b3-4a97-859a-c94ac2b6b1ae)
+
+
