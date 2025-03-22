@@ -22,6 +22,10 @@ Inicialización del Modelo: Se inicializa un modelo de chat utilizando init_chat
 
 Interacción con el Modelo: Se demuestra cómo enviar mensajes al modelo y recibir respuestas, incluyendo la traducción de texto (en este caso de ingles a italiano).
 
+## Diagrama
+
+![image](https://github.com/user-attachments/assets/2e36dd06-59d1-4cf6-a529-8dc7faab04ad)
+
 ## Instalacion y Ejecucion
 
 Toma el archivo .ipynb y usalo para cargar el notebook en colab.
